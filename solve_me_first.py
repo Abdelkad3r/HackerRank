@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#HackerRank | Practice [Solve Me First]
+#HackerRank | Practice Algorithms [Solve Me First]
 #@Abdelkader
 
 num1 = input()
