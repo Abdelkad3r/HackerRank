@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#HackerRank | Practice [Simple Array Sum]
+#HackerRank | Practice Algorithms [Simple Array Sum]
 #@Abdelkader
 
 from sys import *
